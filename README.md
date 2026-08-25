@@ -1,4 +1,4 @@
-# Video Edit by Dr.J — 다운로드
+# Video Editor by Dr.J — 다운로드
 
 간단하고 빠른 영상 편집기입니다. 자르기·이어붙이기, 음악 멀티트랙, 자동 자막,
 화면 배치 편집, 분할 저장을 지원하며 모든 처리가 컴퓨터 안에서 이루어집니다
@@ -10,8 +10,8 @@
 
 | 운영체제 | 파일 |
 | --- | --- |
-| macOS (Apple Silicon, M1 이후) | `VideoEditByDrJ-…-arm64.dmg` |
-| Windows (64비트) | `VideoEditByDrJ.Setup.….exe` |
+| macOS (Apple Silicon, M1 이후) | `Video.Editor.by.Dr.J-….dmg` |
+| Windows (64비트) | `Video.Editor.by.Dr.J.Setup.….exe` |
 
 ## 설치 방법
 
@@ -19,17 +19,23 @@
 1. dmg를 열고 앱을 `응용 프로그램` 폴더로 드래그
 2. 서명이 없는 앱이라 처음 한 번만 터미널에서:
    ```
-   xattr -cr "/Applications/Video Edit by Dr.J.app"
+   xattr -cr "/Applications/Video Editor by Dr.J.app"
    ```
 
 **Windows**
 1. exe 실행
 2. SmartScreen 경고가 뜨면 **추가 정보 → 실행**
 
+## 첫 실행
+
+처음 실행하면 **비밀번호**를 묻습니다. 비밀번호는 배포자에게 받으세요.
+비밀번호·사용 문의: **jdent0228@gmail.com**
+
 ## 업데이트
 
-앱을 켜면 새 버전이 있을 때 오른쪽 위에 **업데이트** 버튼이 나타납니다.
-누르면 설치 파일을 자동으로 내려받아 열어줍니다.
+새 버전이 나오면 앱 오른쪽 위에 **업데이트** 버튼이 나타납니다. 누르면:
+- **Windows**: 변경된 부분만 내려받아 자동 설치 후 재시작
+- **macOS**: 새 버전을 내려받아 자동으로 교체 후 재시작
 
 ## 주요 기능
 
@@ -43,3 +49,4 @@
 
 ---
 이 저장소는 설치 파일 배포용입니다. 소스 코드는 비공개입니다.
+문의: jdent0228@gmail.com
