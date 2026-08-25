@@ -11,7 +11,7 @@
 | 운영체제 | 파일 |
 | --- | --- |
 | macOS (Apple Silicon, M1 이후) | `Video.Editor.by.Dr.J-….dmg` |
-| Windows (64비트) | `Video.Editor.by.Dr.J-…-win.zip` |
+| Windows (64비트) | `Video.Editor.by.Dr.J.Setup.….exe` |
 
 릴리스 페이지 맨 아래의 `Source code` 링크는 GitHub가 자동으로 붙이는 것으로,
 이 저장소의 안내 문서만 들어 있습니다 (프로그램 소스 코드가 아닙니다).
@@ -26,9 +26,8 @@
    ```
 
 **Windows**
-1. zip 압축을 풀어 원하는 폴더에 두기 (예: `C:\Video Editor`)
-2. 폴더 안의 `Video Editor by Dr.J.exe` 실행
-3. SmartScreen 경고가 뜨면 **추가 정보 → 실행**
+1. Setup.exe 실행 (자동 설치)
+2. SmartScreen 경고가 뜨면 **추가 정보 → 실행**
 
 ## 첫 실행
 
@@ -39,7 +38,7 @@
 
 새 버전이 나오면 앱 오른쪽 위에 **업데이트** 버튼이 나타납니다. 누르면:
 - **macOS**: 새 버전을 내려받아 자동으로 교체 후 재시작
-- **Windows**: 새 버전 zip을 내려받아 폴더가 열립니다 — 압축을 풀어 기존 폴더에 덮어쓰면 됩니다
+- **Windows**: 이전 버전과 달라진 부분만 내려받아 자동 설치 후 재시작
 
 ## 주요 기능
 
